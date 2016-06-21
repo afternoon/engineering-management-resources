@@ -5,7 +5,8 @@ Motivation
 ----------
 
 - [Drive](http://www.danpink.com/books/drive/) by [Dan
-  Pink](http://www.danpink.com/): autonomy, mastery and purpose #mustread
+  Pink](http://www.danpink.com/): autonomy, mastery and purpose _#book_
+  _#mustread_
 
 One-to-ones
 -----------
@@ -40,9 +41,10 @@ Compensation
 Org design
 ----------
 
+- [Lean Enterprise](http://shop.oreilly.com/product/0636920030355.do) by Jez Humble, Joanne Moleskey and Barry O'Reilly: scaling lean (as in Toyota), Lean Startup, continuous delivery into a structure for entire organisations, dense - lots of great stuff _#book_
 - [How Google Works](http://www.howgoogleworks.net/) by Eric Schmidt and Jonathan
   Rosenberg (key early product guy at Google): a journey through how
-  Google is structured and how it got there
+  Google is structured and how it got there _#book_
 - [What We Got Wrong About Self-Management: Embracing Natural Hierarchy at
   Work](https://open.buffer.com/self-management-hierarchy/)
   ([Buffer](https://buffer.com/))

@@ -40,9 +40,9 @@ Compensation
 Org design
 ----------
 
-- [How Google Works](http://www.howgoogleworks.net/) - a journey through how
-  Google is structured and how it got there by Eric Schmidt and Jonathan
-  Rosenberg (key early product guy)
+- [How Google Works](http://www.howgoogleworks.net/) by Eric Schmidt and Jonathan
+  Rosenberg (key early product guy at Google): a journey through how
+  Google is structured and how it got there
 - [What We Got Wrong About Self-Management: Embracing Natural Hierarchy at
   Work](https://open.buffer.com/self-management-hierarchy/)
   ([Buffer](https://buffer.com/))

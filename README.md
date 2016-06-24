@@ -63,6 +63,12 @@ Operations
   post-mortem](https://blog.serverdensity.com/how-to-write-a-postmortem/)
   ([Server Density](https://serverdensity.com/))
 
+Hiring
+------
+
+Diversity and bias
+------------------
+
 Teams
 -----
 

@@ -1,6 +1,8 @@
 Engineering Management Resources
 ================================
 
+Please help me build this list. Send me pull requests for great resources you've found.
+
 A bit of everything
 -------------------
 

@@ -1,6 +1,11 @@
 Engineering Management Resources
 ================================
 
+A bit of everything
+-------------------
+
+- [Google re:Work](https://rework.withgoogle.com/). "Let's Make Work Better. Practices, research, and ideas from Google and other organizations to put people first." A data-driven approach to understanding teams, managers, goal-setting, hiring, everything.
+
 Motivation
 ----------
 
@@ -56,3 +61,7 @@ Operations
   post-mortem](https://blog.serverdensity.com/how-to-write-a-postmortem/)
   ([Server Density](https://serverdensity.com/))
 
+Teams
+-----
+
+- [What Google Learned From Its Quest to Build the Perfect Team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html): Google crunched lots of data about 180+ teams. They found that psychological safety is far and away the most important team dynamic. Teams that listen to one another and show sensitivity to feelings and needs are the most successful (see also the Google re:Work blog post [the five keys to a successful Google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/))

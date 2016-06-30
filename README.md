@@ -8,6 +8,11 @@ A bit of everything
 
 - [Google re:Work](https://rework.withgoogle.com/). "Let's Make Work Better. Practices, research, and ideas from Google and other organizations to put people first." A data-driven approach to understanding teams, managers, goal-setting, hiring, everything.
 
+Models of management
+--------------------
+
+- [I’m Not a Servant - I’m a Host! A New Metaphor for Leadership in Agile?](https://www.infoq.com/articles/host-leadership-agile)
+
 Motivation
 ----------
 

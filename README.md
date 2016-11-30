@@ -27,8 +27,8 @@ Motivation
 One-to-ones
 -----------
 
-- [Conducting Effective and Regular
-  One-on-Ones](https://moz.com/blog/conducting-effective-and-regular-oneonones)
+- [How to Make Your One-on-Ones with Employees More Productive](https://hbr.org/2016/08/how-to-make-your-one-on-ones-with-employees-more-productive)
+- [Conducting Effective and Regular One-on-Ones](https://moz.com/blog/conducting-effective-and-regular-oneonones)
 
 Coaching
 --------

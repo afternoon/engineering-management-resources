@@ -12,10 +12,24 @@ Top K
 - [Software Lead Weekly](http://softwareleadweekly.com/). Weekyl email of management resources curated by Oren Ellenbogen, VP Eng at Forter. 10,000 subscribers.
 - [Harvard Business Review](https://hbr.org/). An incredibly deep well of business knowledge, including management.
 
+Culture
+----------
+
+- [How Google Works](http://www.howgoogleworks.net/) by Eric Schmidt and Jonathan Rosenberg (key early product guy at Google): a journey through how Google is structured and how it got there _#book_.
+- [Netflix Culture: Freedom & Responsibility](http://www.slideshare.net/reed2001/culture-1798664). A classic from Reed Hastings, Netflix CEO
+
+Teams
+-----
+
+- [Tuckman's Forming Storming Norming Performing model of team development](http://www.businessballs.com/tuckmanformingstormingnormingperforming.htm).
+
 Models of management
 --------------------
 
-- [I’m Not a Servant - I’m a Host! A New Metaphor for Leadership in Agile?](https://www.infoq.com/articles/host-leadership-agile)
+- [What We Got Wrong About Self-Management: Embracing Natural Hierarchy at
+  Work](https://open.buffer.com/self-management-hierarchy/)
+  ([Buffer](https://buffer.com/)).
+- [I'm Not a Servant - I’m a Host! A New Metaphor for Leadership in Agile?](https://www.infoq.com/articles/host-leadership-agile)
 
 Motivation
 ----------
@@ -58,17 +72,6 @@ Compensation
 - [Introducing the New Buffer Salary Formula, Calculate-Your-Salary App and The
   Whole Team’s New Salaries](https://open.buffer.com/transparent-salaries/)
   ([Buffer](https://buffer.com/))
-
-Org design
-----------
-
-- [How Google Works](http://www.howgoogleworks.net/) by Eric Schmidt and Jonathan
-  Rosenberg (key early product guy at Google): a journey through how
-  Google is structured and how it got there _#book_.
-- [What We Got Wrong About Self-Management: Embracing Natural Hierarchy at
-  Work](https://open.buffer.com/self-management-hierarchy/)
-  ([Buffer](https://buffer.com/)).
-- [Tuckman's Forming Storming Norming Performing model of team development](http://www.businessballs.com/tuckmanformingstormingnormingperforming.htm).
 
 Operations
 ----------

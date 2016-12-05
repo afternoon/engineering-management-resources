@@ -43,6 +43,7 @@ One-to-ones
 
 - [How to Make Your One-on-Ones with Employees More Productive](https://hbr.org/2016/08/how-to-make-your-one-on-ones-with-employees-more-productive)
 - [Conducting Effective and Regular One-on-Ones](https://moz.com/blog/conducting-effective-and-regular-oneonones)
+- [Instrument-Rated Management: Treating Conditions vs Symptoms](https://smallbusinessforum.co/instrument-rated-management-treating-conditions-vs-symptoms-2ad493affb3b). Touching blog post on helping people in your team who aren't satisfied, which may mean them moving on. This conversation is very familiar.
 
 Coaching
 --------

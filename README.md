@@ -6,11 +6,13 @@ Please help me build this list. Send me pull requests for great resources you've
 Top K
 -----
 
+- [High Output Management](https://smile.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/ref=smi_www_rco2_go_smi_g2609328962?_encoding=UTF8&*Version*=1&*entries*=0&ie=UTF8) - "A manager’s output = the output of his organization + the output of the neighboring organizations under his influence." Andy Grove's classic text on management practices. [Ben Horowitz raves about it](http://a16z.com/2015/11/13/high-output-management/). [Lighthouse have a handy top 10 quotes](https://getlighthouse.com/blog/andy-grove-quotes-leadership-high-output-management/) which gives you a flavour.
 - [Lean Enterprise: How High Performance Organizations Innovate at Scale](https://info.thoughtworks.com/lean-enterprise-book.html). This book is an entire theory of organisation design. It's aimed at enterprises, not startups, but it is packed with ideas and case studies for applying lean principles to software organisations. Contains many jumping off points, e.g. to continuous delivery, to lean, to psychological safety. Highly recommended. _#book_  _#mustread_
 - [Google re:Work](https://rework.withgoogle.com/). "Let's Make Work Better. Practices, research, and ideas from Google and other organizations to put people first." A data-driven approach to understanding teams, managers, goal-setting, hiring, everything.
 - [First Round Review](http://firstround.com/review/). An excellent blog on building tech startups from VC firm First Round Capital. Follows the template of "Get person who's best at X to blog about X" where X is hiring, giving feedback, product management, pricing, and so on. _#blog_
 - [Software Lead Weekly](http://softwareleadweekly.com/). Weekyl email of management resources curated by Oren Ellenbogen, VP Eng at Forter. 10,000 subscribers.
 - [Harvard Business Review](https://hbr.org/). An incredibly deep well of business knowledge, including management.
+
 
 Culture
 ----------
@@ -38,9 +40,11 @@ Motivation
   Pink](http://www.danpink.com/): autonomy, mastery and purpose _#book_
   _#mustread_
 
-One-to-ones
+One-on-ones
 -----------
 
+- [High Output Management](https://smile.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/ref=smi_www_rco2_go_smi_g2609328962?_encoding=UTF8&*Version*=1&*entries*=0&ie=UTF8) has a great chapter on this. One key idea for me: make them at least an hour long to avoid superficial status updates and get into the big topics.
+- [A Step-By-Step Guide To Better One-On-Ones](https://www.officevibe.com/blog/guide-to-better-one-on-ones) - Officevibe.
 - [How to Make Your One-on-Ones with Employees More Productive](https://hbr.org/2016/08/how-to-make-your-one-on-ones-with-employees-more-productive)
 - [Conducting Effective and Regular One-on-Ones](https://moz.com/blog/conducting-effective-and-regular-oneonones)
 - [Instrument-Rated Management: Treating Conditions vs Symptoms](https://smallbusinessforum.co/instrument-rated-management-treating-conditions-vs-symptoms-2ad493affb3b). Touching blog post on helping people in your team who aren't satisfied, which may mean them moving on. This conversation is very familiar.

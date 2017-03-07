@@ -67,6 +67,8 @@ Career development
 
 - [Rent The Runway's Engineering Ladder](http://dresscode.renttherunway.com/blog/ladder). Classic post from Camille Fournier sharing RTR engineering's role definitions.
 - [Spotify Technology Career Steps](https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/). Spotify's career path/ladder.
+- [Bad Managers: 5 Signs You Shouldn’t be a Manager](https://getlighthouse.com/blog/bad-manager/)
+- [15 Signs Your Employee Is Ready to Become a Manager](http://www.inc.com/young-entrepreneur-council/15-signs-your-employee-is-ready-to-become-a-manager.html)
 
 Training (budgets, etc)
 -----------------------

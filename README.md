@@ -57,6 +57,14 @@ Giving feedback
 
 - [Radical Candor: The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
 
+Teams retrospectives
+--------------------
+
+- [Basic hints to run retrospectives, by Atlasian](https://www.atlassian.com/team-playbook/plays/retrospective)
+- [Agile Retrospectives Ideas: Games For Your Next Retrospective](https://luis-goncalves.com/agile-retrospectives-ideas-exercises/)
+- [Random retrospective plan generator](https://retromat.org/)
+- [Spotify retrospective kit / materials](https://labs.spotify.com/2017/12/15/spotify-retro-kit/)
+
 Goal setting
 ------------
 
